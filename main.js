@@ -61,7 +61,7 @@ let instructorName = "Russell Osbourne";
 
 
 // This statement should read correctly
-let statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
+let statement = yourName + " is taking a class at The Iron Yard.  His instructor's name is " + instructorName + ".";
 
 
 // 10.
